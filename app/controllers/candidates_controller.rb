@@ -12,7 +12,6 @@ class CandidatesController < ApplicationController
     else
       #ng
     end
-  def X
-  end
+
   end
 end
